@@ -1,0 +1,14 @@
+*, ::after, ::before{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+html {
+  font-weight: 500px;
+}
+body {
+  margin: 0 auto;
+  background-color: #fff;
+  color: #242424;
+}
